@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    class Program
+    public class ProgramT2
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int num = 74;
             int num1 = 36;

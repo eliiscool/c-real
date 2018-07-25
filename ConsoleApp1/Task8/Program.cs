@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task8
 {
-    class Program
+    public class ProgramT8
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.WriteLine("Please input your overall total course mark");
             int num1 = int.Parse(Console.ReadLine());

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task5
 {
-    class Program
+    public class ProgramT5
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.WriteLine("Please input your first number");
             int num1 = int.Parse(Console.ReadLine());

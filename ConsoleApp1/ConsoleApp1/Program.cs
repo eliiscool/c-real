@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    public class ProgramT1
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.Write("Hello World");
             Console.ReadKey();

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task9
 {
-    class Program
+    public class ProgramT9
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             string[] people = { "eli", "dylan", "joshua", "johan", "jackson" };
 
